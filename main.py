@@ -1,3 +1,15 @@
+import subprocess
+import os
+import time
+import socket
+import requests
+import random
+import getpass
+import sys
+import json
+import platform
+import colorama
+from node_modules.colors.themes import string
 import java.io.*;
 import java.net.*;
 import java.net.URL;
